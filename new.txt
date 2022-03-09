@@ -1,0 +1,4 @@
+        "FIO" : "Parkhimovich Kristina Eduardovna",
+	"Age" : 31,
+	"Pets" : 1,
+	"Salary" : 1000
