@@ -1,0 +1,5 @@
+        "FavoriteFilm" : "Hidden Figures",
+	"FavoriteSerial" : "Ekaterina II",
+	"FavoriteFood" : "Sushi",
+	"FavoriteSeason" : "Summer",
+	"CountryIWouldLikeToVisit" : "England"     

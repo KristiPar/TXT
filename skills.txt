@@ -1,0 +1,10 @@
+   
+   Skills :
+          -Terminal
+	  -Fidler
+	  -Postman
+	  -DevTools
+	  -SQL
+	  -Jmeter
+	  -GitBash
+	  -Python"
