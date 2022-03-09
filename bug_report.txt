@@ -1,1 +1,12 @@
-
+name: inaccessible field for entering an email for the leave feedback form.
+  info: 
+         -environment: Win8.FireFox59.0.2,
+         -version: 2.1,
+         -priority: medium,
+         -author: Ivan.
+  reproductionSteps: 
+  -go to the page about the company.
+  -open the leave feedback form".
+  -move the cursor to the email field.
+  actualResult: the email field is not available for character input. Cursor does not appear.
+  expectedResult: the email field is available for entering characters. The cursor appears.
